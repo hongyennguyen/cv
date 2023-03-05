@@ -1,0 +1,47 @@
+
+body {
+    background-color: #fad3d8;
+    padding-top: 50px;
+    padding-right: 150px;
+    padding-bottom: 50px;
+    padding-left: 150px;
+}
+
+hr {
+    background-color: #fad3d8;
+    border-style: none;
+    border-top-style: double;
+    border-color: #039f9b;
+    border-width: 10px;
+    width: 100%;
+}
+
+h1 {
+    color: #e090ad;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    color: #e090ad;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+ul {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+li {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+form {
+    font-family: Arial, Helvetica, sans-serif; 
+}
